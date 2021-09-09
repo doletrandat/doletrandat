@@ -2,7 +2,7 @@
 <h1 align="center"> Hello, I'm ItzDatMC</h1>
 <h3 align="center">🚀 Python Developer 🚀</h3>
 
-- 🔭 I’m currently working on a Microsoft Word ripoff built with Python
+- 🔭 I’m currently working on school homework 
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on open source projects
 
