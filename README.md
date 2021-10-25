@@ -1,5 +1,5 @@
 
-<h1 align="center"> Hello, I'm sus</h1>
+<h1 align="center"> Hello, I'm ItzDatMC</h1>
 <h3 align="center">🚀 Python Developer 🚀</h3>
 
 - 🔭 I’m currently working on school homework 
