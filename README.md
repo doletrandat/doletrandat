@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on open source projects
 
 ## Some Statistics About Me
-![ItzDatMC's github stats](https://github-readme-stats.vercel.app/api?username=ItzDatMC&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=merko)<br>
+![ItzDatMC's github stats](https://github-readme-stats.vercel.app/api?username=ItzDatMC&include_all_commits=true&count_private=true&show_owner=true&show_icons=true&theme=tokyonight)<br>
 
 ----
 
