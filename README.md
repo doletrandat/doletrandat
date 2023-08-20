@@ -3,8 +3,8 @@
 
 - Why are you even checking out my GitHub profile lol
                    
-    <a href="https://monkeytype.com/profile/itzdatmc">
+  <a href="https://monkeytype.com/profile/itzdatmc">
         <img src="https://raw.githubusercontent.com/itzdatmc/itzdatmc/monkeytype-readme/monkeytype-readme-lb.svg" alt="My Monkeytype profile" />
-    </a>
+  </a>
                         
               
