@@ -1,5 +1,6 @@
 
 <h1 align="center"> Why hello there 👋</h1>
 
-[![An image of @itzdatmc's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/itzdatmc)](https://holopin.io/@itzdatmc)
+![itzdatmc's Stats](https://github-readme-stats.vercel.app/api?username=itzdatmc&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![itzdatmc's Streak](https://github-readme-streak-stats.herokuapp.com/?user=itzdatmc&theme=vue-dark&hide_border=true)
               
